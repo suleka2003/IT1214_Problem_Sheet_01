@@ -1,1 +1,3 @@
-class Student{}
+public class 02 {
+    
+}
